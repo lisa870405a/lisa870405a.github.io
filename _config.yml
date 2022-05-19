@@ -102,4 +102,6 @@ theme: ayer
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/lisa870405a/lisa870405a.github.io
+  branch: gh-pages

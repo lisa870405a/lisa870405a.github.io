@@ -2,10 +2,10 @@
 menu:
   首頁: /
   # 彙總: /archives
-  創作: /tags/創作/
-  散文: /tags/散文/
-  詩: /tags/詩/
-  書評: /tags/書評/
+  創作: /categories/創作/
+  散文: /categories/創作/散文/
+  詩: /categories/創作/詩/
+  書評: /categories/書評/
   # 足跡: /tags/足跡/
   # 旅行: /tags/旅行/
   # 分類: /categories
@@ -48,7 +48,7 @@ broadcast:
 
 # 文章配置
 # 文章太长，截断按钮文字(在需要截断的行增加此标记：<!--more-->)
-excerpt_link: 閱讀更多...
+excerpt_link: 閱讀更多
 # 如果你嫌每篇文章手动加more标记比较麻烦，又不想在首页全文显示，可以把excerpt_all设置成true，这样首页只会显示文章归档
 excerpt_all: false
 
